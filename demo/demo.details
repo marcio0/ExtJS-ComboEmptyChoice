@@ -1,8 +1,8 @@
 ---
-  name: ExtJS Combo Empty Choice Example
-  authors:
+ name: ExtJS Combo Empty Choice Example
+ authors:
    - Marcio Cruz
-  normalize_css: no
-  resources:
-    - http://dev.sencha.com/deploy/ext-4.0.2a/resources/css/ext-all-gray.css
-...
+ normalize_css: no
+ resources:
+   - http://dev.sencha.com/deploy/ext-4.0.2a/resources/css/ext-all-gray.css
+ ...
