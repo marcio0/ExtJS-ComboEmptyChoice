@@ -1,4 +1,6 @@
-name: ExtJS Combo Empty Choice Example
-authors:
-    - Marcio Cruz
-normalize_css: no
+---
+  name: ExtJS Combo Empty Choice Example
+  authors:
+   - Marcio Cruz
+  normalize_css: no
+...
